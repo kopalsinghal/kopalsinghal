@@ -1,4 +1,4 @@
-```html
+html
 <h1 align="center">Hi 👋, I'm Kopal Singhal</h1>
 
 <h3 align="center">
@@ -140,4 +140,4 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_
 <p align="center">
 Keep Learning • Keep Building • Keep Growing 🚀
 </p>
-```
+
