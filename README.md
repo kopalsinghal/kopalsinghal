@@ -52,6 +52,7 @@
 | Java Programs | Logic building & practice |
 | HTML/CSS Projects | Frontend practice |
 | Mini Projects | Learning by building |
+| Wellora.   |fitness website
 
 # 🎯 Goals
 
