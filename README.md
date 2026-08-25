@@ -1,5 +1,15 @@
-# 💫 About Me:
-BCA student passionate about software development, Java, DSA, web development, and cybersecurity. 💻<br>Currently strengthening my problem-solving skills, building projects, and exploring cybersecurity tools and technologies.<br>🚀 Learning, building, and growing one project at a time.<br>
+## 👩‍💻 About Me
+
+Hi! I'm **Kopal**, a BCA student who enjoys turning ideas into working projects and solving problems through code.
+
+* 💻 Currently focused on **Java & Data Structures and Algorithms**
+* 🌐 Building my skills in **Web Development**
+* 🔐 Exploring **Cybersecurity and security tools**
+* 🚀 Working on projects that combine technology with real-world problems
+* 📚 Always learning, experimenting, and improving my problem-solving skills
+
+**Currently learning → Building → Improving → Repeating.**
+
 
 
 ## 🌐 Socials:
