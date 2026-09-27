@@ -40,25 +40,31 @@ Hi! I'm **Kopal**, a BCA student who enjoys turning ideas into working projects 
 
 Currently solving **LeetCode problems in Java** with a focus on understanding patterns, optimizing solutions, and building strong problem-solving skills.
 
-### 📚 Topics I'm Practicing
+## 🧩 LeetCode Problems Solved
 
-| Topic               | Status                   |
-| ------------------- | ------------------------ |
-| Arrays              | 🟢 Learning & Practicing |
-| Two Pointers        | 🟢 Learning & Practicing |
-| Hashing             | 🟢 Learning & Practicing |
-| Binary Search       | 🟢 Learning & Practicing |
-| Sorting             | 🔵 Upcoming              |
-| Strings             | 🔵 Upcoming              |
-| Sliding Window      | 🔵 Upcoming              |
-| Recursion           | 🔵 Upcoming              |
-| Linked List         | 🔵 Upcoming              |
-| Stack & Queue       | 🔵 Upcoming              |
-| Bit Manipulation    | 🔵 Upcoming              |
-| Trees & BST         | 🔵 Upcoming              |
-| Graphs              | 🔵 Upcoming              |
-| Dynamic Programming | 🔵 Upcoming              |
+> 🚀 **9 Problems Solved** • 🧠 **Pattern-Based DSA Practice** • ☕ **Java**
 
+| # | 🧩 Problem | 🎯 Pattern / Concept | 💡 Difficulty |
+|:---:|---|---|:---:|
+| 01 | **Two Sum** | 🗺️ Hashing | 🟢 Easy |
+| 35 | **Search Insert Position** | 🔍 Binary Search | 🟢 Easy |
+| 283 | **Move Zeroes** | 🔄 Two Pointers | 🟢 Easy |
+| 27 | **Remove Element** | 🔄 Two Pointers | 🟢 Easy |
+| 26 | **Remove Duplicates from Sorted Array** | 🔄 Two Pointers | 🟢 Easy |
+| 287 | **Find the Duplicate Number** | 🔁 Cycle Finding | 🟡 Medium |
+| 217 | **Contains Duplicate** | 🗺️ Hashing | 🟢 Easy |
+| 167 | **Two Sum II – Input Array Is Sorted** | 🔄 Two Pointers | 🟡 Medium |
+| 11 | **Container With Most Water** | 🔄 Two Pointers | 🟡 Medium |
+
+### 📊 Pattern Breakdown
+
+`🔄 Two Pointers` █████  **5**
+
+`🗺️ Hashing`      ██     **2**
+
+`🔍 Binary Search` █      **1**
+
+`🔁 Cycle Finding` █      **1**
 
 ### 📊 DSA Progress
 
