@@ -59,6 +59,19 @@ Currently solving **LeetCode problems in Java** with a focus on understanding pa
 | Graphs              | 🔵 Upcoming              |
 | Dynamic Programming | 🔵 Upcoming              |
 
+
+### 📊 DSA Progress
+
+| Topic | Progress |
+|:---|:---:|
+| Arrays | 🟩🟩🟩🟩🟩 |
+| Two Pointers | 🟩🟩🟩🟩⬜ |
+| Hashing | 🟩🟩🟩🟩⬜ |
+| Binary Search | 🟩🟩🟩⬜⬜ |
+| Sorting | ⬜⬜⬜⬜⬜ |
+| Strings | ⬜⬜⬜⬜⬜ |
+| Sliding Window | ⬜⬜⬜⬜⬜ |
+
 ### 💻 Language
 
 **Java** ☕
