@@ -36,3 +36,50 @@ Hi! I'm **Kopal**, a BCA student who enjoys turning ideas into working projects 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=kopalsinghal&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
 </p>
+## 🧠 Data Structures & Algorithms
+
+Currently solving **LeetCode problems in Java** with a focus on understanding patterns, optimizing solutions, and building strong problem-solving skills.
+
+### 📚 Topics I'm Practicing
+
+| Topic               | Status                   |
+| ------------------- | ------------------------ |
+| Arrays              | 🟢 Learning & Practicing |
+| Two Pointers        | 🟢 Learning & Practicing |
+| Hashing             | 🟢 Learning & Practicing |
+| Binary Search       | 🟢 Learning & Practicing |
+| Sorting             | 🔵 Upcoming              |
+| Strings             | 🔵 Upcoming              |
+| Sliding Window      | 🔵 Upcoming              |
+| Recursion           | 🔵 Upcoming              |
+| Linked List         | 🔵 Upcoming              |
+| Stack & Queue       | 🔵 Upcoming              |
+| Bit Manipulation    | 🔵 Upcoming              |
+| Trees & BST         | 🔵 Upcoming              |
+| Graphs              | 🔵 Upcoming              |
+| Dynamic Programming | 🔵 Upcoming              |
+
+### 💻 Language
+
+**Java** ☕
+My DSA solutions are written in Java with a focus on:
+
+* Problem-solving patterns
+* Time & space complexity
+* Clean and readable code
+* Interview-oriented questions
+
+### 🏆 LeetCode Practice
+
+🔗 **[View my DSA Solutions →](https://github.com/kopalsinghal/leetcode-dsa-java)**
+
+My solutions are organized topic-wise for easy navigation:
+
+`Arrays` → `Two Pointers` → `Hashing` → `Binary Search` → `Sorting` → `Strings` → `Sliding Window` → `Linked List` → ...
+
+### 🎯 Current Focus
+
+> **Learn the pattern → Understand the approach → Solve independently → Optimize → Revisit**
+
+📈 **Currently building consistency with LeetCode + interview-pattern problems.**
+
