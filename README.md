@@ -42,7 +42,7 @@ Currently solving **LeetCode problems in Java** with a focus on understanding pa
 
 ## 🧩 LeetCode Problems Solved
 
-> 🚀 **9 Problems Solved** • 🧠 **Pattern-Based DSA Practice** • ☕ **Java**
+ 🧠 **Pattern-Based DSA Practice** • ☕ **Java**
 
 | # | 🧩 Problem | 🎯 Pattern / Concept | 💡 Difficulty |
 |:---:|---|---|:---:|
@@ -55,12 +55,17 @@ Currently solving **LeetCode problems in Java** with a focus on understanding pa
 | 217 | **Contains Duplicate** | 🗺️ Hashing | 🟢 Easy |
 | 167 | **Two Sum II – Input Array Is Sorted** | 🔄 Two Pointers | 🟡 Medium |
 | 11 | **Container With Most Water** | 🔄 Two Pointers | 🟡 Medium |
+| 1480 | **Running Sum of 1d Array** | 📦 Array Traversal | 🟢 Easy |
+| 1929 | **Concatenation of Array** | 📦 Array Traversal | 🟢 Easy |
+| 344 | **Reverse String** | 🔄 Two Pointers | 🟢 Easy |
 
 ### 📊 Pattern Breakdown
 
-`🔄 Two Pointers` █████  **5**
+`🔄 Two Pointers` ██████  **6**
 
-`🗺️ Hashing`      ██     **2**
+`🗺️ Hashing`      ██      **2**
+
+`📦 Array Traversal` ██   **2**
 
 `🔍 Binary Search` █      **1**
 
