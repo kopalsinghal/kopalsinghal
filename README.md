@@ -58,6 +58,7 @@ Currently solving **LeetCode problems in Java** with a focus on understanding pa
 | 1480 | **Running Sum of 1d Array** | 📦 Array Traversal | 🟢 Easy |
 | 1929 | **Concatenation of Array** | 📦 Array Traversal | 🟢 Easy |
 | 344 | **Reverse String** | 🔄 Two Pointers | 🟢 Easy |
+| 125 | **valid palindrome** | 🔄 Two Pointers | 🟢 Easy |
 
 ### 📊 Pattern Breakdown
 
