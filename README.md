@@ -88,11 +88,15 @@ Currently solving **LeetCode problems in Java** with a focus on understanding pa
 
 ### 📊 Pattern Breakdown
 
-- `🔄 Two Pointers` ███████ **7**
-- `🗺️ Hashing` ██ **2**
-- `📦 Array Traversal` ██ **2**
-- `🔍 Binary Search` █ **1**
-- `🔁 Cycle Finding` █ **1**
+`🔄 Two Pointers`       🟩🟩🟩🟩🟩🟩🟩 **7**
+
+`🗺️ Hashing`            🟩🟩 **2**
+
+`📦 Array Traversal`    🟩🟩 **2**
+
+`🔍 Binary Search`      🟩 **1**
+
+`🔁 Cycle Finding`      🟩 **1**
 
 ### 📊 DSA Progress
 
